@@ -554,12 +554,6 @@
 .fa-bar-chart:before {
   content: "\f080";
 }
-.fa-twitter-button:before {
-  content: "\f081";
-}
-.fa-facebook-button:before {
-  content: "\f082";
-}
 .fa-twitter-square:before {
   content: "\f081";
 }
@@ -1199,9 +1193,6 @@
 }
 .fa-thumbs-down:before {
   content: "\f165";
-}
-.fa-youtube-button:before {
-  content: "\f166";
 }
 .fa-youtube-square:before {
   content: "\f166";
