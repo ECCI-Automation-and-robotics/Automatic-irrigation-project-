@@ -138,12 +138,12 @@ font-weight: bold;
             color: #0084b4
         }
 
-        .fa-instagram.-square{
+        .fa-instagram-square{
             color: #0084b4
         }
 
 
-        .fa-facebook-square,.fa-instagram.-square,.fa-twitter-square{
+        .fa-facebook-square,.fa-instagram-square,.fa-twitter-square{
             font-size:2em;
             margin: -7px 5px 0 5px;
         }
