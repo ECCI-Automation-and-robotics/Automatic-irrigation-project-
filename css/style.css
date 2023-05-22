@@ -122,10 +122,36 @@ font-weight: bold;
             background: #388E3C;
 
         }
+        
+        .fb-button {
+            display: inline-block;
+            background-color: #3b5998;
+            color: #ffffff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .fb-icon {
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 10px;
+            width: 20px;
+            height: 20px;
+            background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Ffacebook_124010&psig=AOvVaw2Jb5LuF0dGU-QMZm_1NWf3&ust=1684870944247000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiC7cLXif8CFQAAAAAdAAAAABAE'); /* Reemplaza con la URL de tu icono de Facebook */
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
 
         .fa-facebook-square{
             color:#3b5998
         }
+
         
         .fa-youtube-square{
             color: #c4302b
