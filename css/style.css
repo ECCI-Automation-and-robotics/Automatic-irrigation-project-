@@ -125,21 +125,20 @@ font-weight: bold;
         
 
 
-        .fa-facebook-button{
+        .fa-facebook-square{
             color:#3b5998
-            cursor: pointer;    
         }
 
         
-        .fa-youtube-button{
+        .fa-youtube-square{
             color: #c4302b
         }
 
-        .fa-twitter-button{
+        .fa-twitter-square{
             color: #0084b4
         }
 
-        .fa-facebook-square1,.fa-youtube-square1,.fa-twitter-square1{
+        .fa-facebook-square,.fa-youtube-square,.fa-twitter-square{
             font-size:2em;
             margin: -7px 5px 0 5px;
         }
