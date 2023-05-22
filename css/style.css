@@ -127,13 +127,6 @@ font-weight: bold;
 
         .fa-facebook-button{
             color:#3b5998
-            color: #ffffff;
-            padding: 10px 20px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 16px;
-            border: none;
             cursor: pointer;    
         }
 
