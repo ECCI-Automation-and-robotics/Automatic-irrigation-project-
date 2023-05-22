@@ -1200,6 +1200,9 @@
 .fa-thumbs-down:before {
   content: "\f165";
 }
+.fa-youtube-button:before {
+  content: "\f166";
+}
 .fa-youtube-square:before {
   content: "\f166";
 }
