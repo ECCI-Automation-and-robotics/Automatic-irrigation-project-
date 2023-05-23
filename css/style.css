@@ -153,10 +153,10 @@ font-weight: bold;
 
 /** services */
         .background-3{
-            width: 100%;
+            width: 80%;
             background-image: url(../img/sd-2.jpg);
             background-size: cover;
-            background-position: 60% 0;
+            background-position: 65% 0;
             background-repeat: no-repeat;
             position: relative !important;
         }
