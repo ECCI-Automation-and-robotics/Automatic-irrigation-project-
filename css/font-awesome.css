@@ -1219,7 +1219,9 @@
 .fa-stack-overflow:before {
   content: "\f16c";
 }
-
+.fa-instagram-square:before {
+  content: "\e055";
+}
 .fa-flickr:before {
   content: "\f16e";
 }
