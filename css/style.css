@@ -221,7 +221,7 @@ font-weight: bold;
             background-image: url(../img/sd-4.jpg);
         }
         .free,.premium{
-            width: 50%;
+            width: 100%;
             background-size: cover;
             background-position: 50% 0;
             background-repeat: no-repeat;
